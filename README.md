@@ -4,6 +4,6 @@
 dotnet build -c Release
 
 #Features:
-pause
-GameOverless
-auto play
+pause,
+GameOverless,
+auto play,
